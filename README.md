@@ -1,4 +1,4 @@
-# PROJECT7 : 💳 Credit Card Fraud Detection Project
+# PROJECT : 💳 Credit Card Fraud Detection Project
 
 >✅ Level 2- Task 3
 
